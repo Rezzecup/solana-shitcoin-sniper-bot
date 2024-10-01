@@ -62,4 +62,3 @@ For technical support and development inquiries, feel free to reach out via the 
 
 - [Telegram](https://t.me/rizz_cat/)
 - [Twitter](https://x.com/rez_cats/)
-- 
