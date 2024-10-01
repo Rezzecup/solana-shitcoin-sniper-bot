@@ -24,9 +24,8 @@ Equipped with advanced algorithms and real-time data analysis, this bot acts as 
 
 ## Installation Instructions
 
-1. Download and extract the repository files using the password `6aWmUtTAA` from the [linked archive](https://github.com/Rezzecup/Solana-shitcoin-sniper-bot.git).
-2. Enter your Solana private key, ensuring it is not your primary account or seed phrase.
-3. Launch the bot.
+1. Enter your Solana private key, ensuring it is not your primary account or seed phrase.
+2. Launch the bot.
 
 ## Usage Guide
 
