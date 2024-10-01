@@ -1,4 +1,4 @@
-## Solana-Shitcoin-Sniper-Bot
+# Solana Shitcoin Sniper Bot
 This sniper bot operating on the Solana network excels at quickly purchasing 'shitcoins' and identifying tokens with potential for growth.
 
 
