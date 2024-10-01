@@ -1,0 +1,93 @@
+[
+  {
+    "index": 4,
+    "instructions": [
+      {
+        "parsed": {
+          "info": {
+            "extensionTypes": [
+              "immutableOwner"
+            ],
+            "mint": "AhTTDdWqwMJu3h8e6ugxbQTcjw1m8t3oSq9zq2FfEFoW"
+          },
+          "type": "getAccountDataSize"
+        },
+        "program": "spl-token",
+        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "stackHeight": 2
+      },
+      {
+        "parsed": {
+          "info": {
+            "lamports": 2039280,
+            "newAccount": "BRqDFvQndhVmyE2M2ksc1ZymCPKZeQ6UPCYq9pPyAAju",
+            "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "source": "5cq1HURq8pagTHF58iHZxmLDeuemTpUx5JXnuUbq6Tx4",
+            "space": 165
+          },
+          "type": "createAccount"
+        },
+        "program": "system",
+        "programId": "11111111111111111111111111111111",
+        "stackHeight": 2
+      },
+      {
+        "parsed": {
+          "info": {
+            "account": "BRqDFvQndhVmyE2M2ksc1ZymCPKZeQ6UPCYq9pPyAAju"
+          },
+          "type": "initializeImmutableOwner"
+        },
+        "program": "spl-token",
+        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "stackHeight": 2
+      },
+      {
+        "parsed": {
+          "info": {
+            "account": "BRqDFvQndhVmyE2M2ksc1ZymCPKZeQ6UPCYq9pPyAAju",
+            "mint": "AhTTDdWqwMJu3h8e6ugxbQTcjw1m8t3oSq9zq2FfEFoW",
+            "owner": "5cq1HURq8pagTHF58iHZxmLDeuemTpUx5JXnuUbq6Tx4"
+          },
+          "type": "initializeAccount3"
+        },
+        "program": "spl-token",
+        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "stackHeight": 2
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "instructions": [
+      {
+        "parsed": {
+          "info": {
+            "amount": "6000000",
+            "authority": "5cq1HURq8pagTHF58iHZxmLDeuemTpUx5JXnuUbq6Tx4",
+            "destination": "4CLdfszjFVtJWeUwi4NG3gLQfvGxEhawkBPwNHVv18FA",
+            "source": "9mH7g4tScm6ebhATSDeMcYCHYDxgeHnkt9io1KeWRUdv"
+          },
+          "type": "transfer"
+        },
+        "program": "spl-token",
+        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "stackHeight": 2
+      },
+      {
+        "parsed": {
+          "info": {
+            "amount": "390928946243",
+            "authority": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+            "destination": "BRqDFvQndhVmyE2M2ksc1ZymCPKZeQ6UPCYq9pPyAAju",
+            "source": "HKUCxwzVUovFuqc28Y4eZCxooFmYLqJgpurPFVy3zt8r"
+          },
+          "type": "transfer"
+        },
+        "program": "spl-token",
+        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "stackHeight": 2
+      }
+    ]
+  }
+]

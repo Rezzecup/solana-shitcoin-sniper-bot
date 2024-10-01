@@ -1,0 +1,26 @@
+[
+  {
+    "accountIndex": 8,
+    "mint": "So11111111111111111111111111111111111111112",
+    "owner": "GThUX1Atko4tqhN2NaiTazWSeFWMuiUvfFnyJyUghFMJ",
+    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "uiTokenAmount": {
+      "amount": "42002240000000",
+      "decimals": 9,
+      "uiAmount": 42002.24,
+      "uiAmountString": "42002.24"
+    }
+  },
+  {
+    "accountIndex": 9,
+    "mint": "8YuKKJwRyFCGcgN2N5WNx5GcjSRyKKQ8ZkMhxjTuPFYa",
+    "owner": "4zc1rPxyHpTj1iQVnMcgBW7bTvJVfQ7zD3fRDBYSbXM4",
+    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "uiTokenAmount": {
+      "amount": "1000000000000000",
+      "decimals": 6,
+      "uiAmount": 1000000000,
+      "uiAmountString": "1000000000"
+    }
+  }
+]

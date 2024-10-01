@@ -1,0 +1,1 @@
+export const BURN_ACC_ADDRESS = 'burn68h9dS2tvZwtCFMt79SyaEgvqtcZZWJphizQxgt'

@@ -1,0 +1,68 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/client/index.ts",
+      "outFiles": [
+        "${workspaceFolder}/client/dist/**/*.js"
+      ],
+      "sourceMaps": true
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Single Swap",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/client/SwapTest.ts",
+      "outFiles": [
+        "${workspaceFolder}/client/dist/**/*.js"
+      ],
+      "sourceMaps": true
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Bot Test",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/client/Bot.ts",
+      "outFiles": [
+        "${workspaceFolder}/client/dist/**/*.js"
+      ],
+      "sourceMaps": true
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Save Trades",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/client/Trader/SerumMarket.ts",
+      "outFiles": [
+        "${workspaceFolder}/client/dist/**/*.js"
+      ],
+      "sourceMaps": true
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Manual trades",
+      "args": [
+        "--operation=buy",
+        "--mint=CgzdCjj5YNH51uFfQftFbuJKMrwgdWheVjwqjU84MV8y",
+        "--pair=DG9PgGwpA2RjvNrWbWrhPWR8bZLig5nDSWTz14uSHyRQ"
+      ],
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/client/ManualTrader.ts",
+      "outFiles": [
+        "${workspaceFolder}/client/dist/**/*.js"
+      ],
+      "sourceMaps": true
+    }
+  ]
+}

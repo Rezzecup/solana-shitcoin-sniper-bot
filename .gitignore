@@ -1,0 +1,7 @@
+test-ledger
+target
+node_modules
+.env
+client/dist
+client/.DS_Store
+*.log
