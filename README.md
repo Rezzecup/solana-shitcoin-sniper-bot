@@ -57,6 +57,8 @@ By utilizing the Shitcoin Sniper Bot, you acknowledge and accept the inherent ri
 
 ## Contact Information
 
+This is initial version (Version 1).
+Ready Project Version 2 & 3 (bundling, etc…) for sale…
 For technical support and development inquiries, feel free to reach out via the following platforms:
 
 - [Telegram](https://t.me/rizz_cat/)
